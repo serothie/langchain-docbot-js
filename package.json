@@ -1,0 +1,24 @@
+{
+  "name": "langchain-docbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@huggingface/inference": "^4.5.3",
+    "@langchain/community": "^0.3.49",
+    "@langchain/core": "^0.3.66",
+    "@langchain/openai": "^0.6.2",
+    "axios": "^1.10.0",
+    "dotenv": "^16.6.1",
+    "langchain": "^0.3.30",
+    "node-fetch": "^3.3.2",
+    "openai": "^5.10.2",
+    "readline": "^1.3.0"
+  }
+}
